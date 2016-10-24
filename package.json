@@ -10,7 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "flux": "^2.1.1",
+    "html-to-react": "^1.0.0",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-cookie": "^0.4.8",
+    "react-dom": "^15.3.0",
+    "react-jquery-datatables": "^0.7.1",
+    "react-validation-mixin": "^5.4.0"
   }
 }

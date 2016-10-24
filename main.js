@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
-import AutoSearch from './src/AutoSearch'
+import CountryStateSelector from './src/CountryStateSelector'
 
 
 
-ReactDom.render(<AutoSearch/>,document.getElementById('app'));
+ReactDom.render(<CountryStateSelector/>,document.getElementById('app'));

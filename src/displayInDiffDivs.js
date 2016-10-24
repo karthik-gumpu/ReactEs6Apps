@@ -1,7 +1,7 @@
 import React from 'react'
 import CommentsApp from './CommentsApp'
 import MixinApp from './MixinApp'
-import BasicApp from '.BasicApp'
+import BasicApp from './BasicApp'
 export default class Hello extends React.Component {
 	constructor(){
 		super();
